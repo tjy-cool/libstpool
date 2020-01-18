@@ -362,3 +362,16 @@ MSG_log(const char *m, int level, const char *fmt, ...)
 			level < LOG_WARN ? stdout : stderr
 		);
 }
+
+const char* get_filename(const char *path)
+{
+	assert(path);
+	char ch = 0x0;
+#ifdef _WIN
+	ch = '\\';
+#else
+	ch = '/';
+#endif
+    char* q = strrchr(path, ch);
+	return q ? (q + 1) : path;
+}

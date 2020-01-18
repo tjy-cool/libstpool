@@ -234,8 +234,10 @@ EXPORT const char *MSG_log_buffer(char *buff, int bufflen, msg_log_brief_t *mlm,
 
 EXPORT void MSG_log(const char *m, int level, const char *fmt, ...); 
 
+inline const char* get_filename(const char *path);
+
 #define MSG_log2(m, l, fmt, ...) \
-	MSG_log(m, l, fmt " [%s:@%s:%d]\n",##__VA_ARGS__, __FILE__, __FUNCTION__, __LINE__)   
+	MSG_log(m, l, fmt " [%s:@%s:%d]\n",##__VA_ARGS__, get_filename(__FILE__), __FUNCTION__, __LINE__)   
 
 #ifdef __cplusplus  
 }
