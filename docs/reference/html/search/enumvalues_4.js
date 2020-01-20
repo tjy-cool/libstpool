@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['task_5fstat_5fdispatching',['TASK_STAT_DISPATCHING',['../stpool_8h.html#aba01db17f4a2bfbc3db60dc172972a25a4f38d9dcdc46d146d56ba1f21d6aefbf',1,'stpool.h']]],
+  ['task_5fstat_5fscheduling',['TASK_STAT_SCHEDULING',['../stpool_8h.html#aba01db17f4a2bfbc3db60dc172972a25a258114d1487b12fef166a9ff77618930',1,'stpool.h']]],
+  ['task_5fstat_5fwait',['TASK_STAT_WAIT',['../stpool_8h.html#aba01db17f4a2bfbc3db60dc172972a25a080aac6d2b6b1d4959688fc6fd71cf52',1,'stpool.h']]],
+  ['task_5fstat_5fwait_5fpending',['TASK_STAT_WAIT_PENDING',['../stpool_8h.html#aba01db17f4a2bfbc3db60dc172972a25aef6b2f6a492f6565730740d31f6a12b6',1,'stpool.h']]],
+  ['task_5ftype_5fdispatched',['TASK_TYPE_DISPATCHED',['../cpool__core__struct_8h.html#a385c44f6fb256e5716a2302a5b940388a292f3aefedb4e130aff33ebf8fd7ff34',1,'cpool_core_struct.h']]],
+  ['task_5ftype_5fgc',['TASK_TYPE_GC',['../cpool__core__struct_8h.html#a385c44f6fb256e5716a2302a5b940388af622d88fc091acf7649edc2860f049db',1,'cpool_core_struct.h']]],
+  ['task_5ftype_5fnormal',['TASK_TYPE_NORMAL',['../cpool__core__struct_8h.html#a385c44f6fb256e5716a2302a5b940388a934dc5bed647c8ca616e721c8f760e3e',1,'cpool_core_struct.h']]],
+  ['task_5fvmark_5fdisable_5fqueue',['TASK_VMARK_DISABLE_QUEUE',['../stpool_8h.html#aaf105ae5beaca1dee30ae54530691fcea65067ce9ce83fc522f499384b382a5c3',1,'stpool.h']]],
+  ['task_5fvmark_5fenable_5fqueue',['TASK_VMARK_ENABLE_QUEUE',['../stpool_8h.html#aaf105ae5beaca1dee30ae54530691fcea09dcc92937eea55e5e234c91aa6196de',1,'stpool.h']]],
+  ['task_5fvmark_5fremove',['TASK_VMARK_REMOVE',['../stpool_8h.html#aaf105ae5beaca1dee30ae54530691fceace71f8be27209c99c15d110008ef60ba',1,'stpool.h']]],
+  ['task_5fvmark_5fremove_5fbypool',['TASK_VMARK_REMOVE_BYPOOL',['../stpool_8h.html#aaf105ae5beaca1dee30ae54530691fcea38b52f6beedb726dc286ad8ea0edcfa0',1,'stpool.h']]],
+  ['thread_5fstat_5fcomplete',['THREAD_STAT_COMPLETE',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57ac444f2a11950601f6329a55c84eda743',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5fflush',['THREAD_STAT_FLUSH',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a7d2e197225bbcf28584985e3b8618e91',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5fforce_5fquit',['THREAD_STAT_FORCE_QUIT',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57afcd646ad023d66a238d88744c97c5e5b',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5ffree',['THREAD_STAT_FREE',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a0447d8263a0a0fa1cb96f700d730201e',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5fgc',['THREAD_STAT_GC',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57aa21cc01e0ce2dc2fb8b48c7b42a09405',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5finit',['THREAD_STAT_INIT',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a47da01621fbd0af6c72ec3f928f60f9d',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5finner',['THREAD_STAT_INNER',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57ad96b2434d1fc5248cba99ee6fc894ec4',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5fjoin',['THREAD_STAT_JOIN',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a1738ccaf6fe36a145f27346c333750b4',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5fleave',['THREAD_STAT_LEAVE',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57ab50fdc84991c553256043e8d5a3efde9',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5frm',['THREAD_STAT_RM',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a9c77eea5482b1c600db9afe8d3d98f80',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5frun',['THREAD_STAT_RUN',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a91a2d23e7040f054edfeeb98150ba719',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5ftimedout',['THREAD_STAT_TIMEDOUT',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57a4e455581b19ae810bfcc954cf39b24ac',1,'cpool_core_struct.h']]],
+  ['thread_5fstat_5fwait',['THREAD_STAT_WAIT',['../cpool__core__struct_8h.html#ab04a0655cd1e3bcac5e8f48c18df1a57acf1bd3fc72aeea907faf905e07231dda',1,'cpool_core_struct.h']]]
+];

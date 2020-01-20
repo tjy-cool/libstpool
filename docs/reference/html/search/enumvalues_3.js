@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['pool_5ferr_5fdestroying',['POOL_ERR_DESTROYING',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8abc6f6a853c3c51bf3c722a272ef667a8',1,'stpool.h']]],
+  ['pool_5ferr_5ferrno',['POOL_ERR_errno',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8a5c15860e18ccaf80a796e1c748413535',1,'stpool.h']]],
+  ['pool_5ferr_5fgroup_5fdestroying',['POOL_ERR_GROUP_DESTROYING',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8a87a5075035fc9d527629d05b36f18002',1,'stpool.h']]],
+  ['pool_5ferr_5fgroup_5fnot_5ffound',['POOL_ERR_GROUP_NOT_FOUND',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8ae78306bfb51dcfbe828703f53a7d99dd',1,'stpool.h']]],
+  ['pool_5ferr_5fgroup_5foverloaded',['POOL_ERR_GROUP_OVERLOADED',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8aa629848b26b58e097e538ec4bc6a0c9b',1,'stpool.h']]],
+  ['pool_5ferr_5fgroup_5fthrottle',['POOL_ERR_GROUP_THROTTLE',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8ad74c35a580d60029ffe99b317d086347',1,'stpool.h']]],
+  ['pool_5ferr_5finterrupted',['POOL_ERR_INTERRUPTED',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8a91508aeb3ca82e7c072e16ff76747090',1,'stpool.h']]],
+  ['pool_5ferr_5fnomem',['POOL_ERR_NOMEM',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8ae41bc117133611f0905fe7c56eef8911',1,'stpool.h']]],
+  ['pool_5ferr_5fnsupport',['POOL_ERR_NSUPPORT',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8a8e367304282a1d354adde7742a5c2390',1,'stpool.h']]],
+  ['pool_5ferr_5fother',['POOL_ERR_OTHER',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8a9d095faacd5efeca7f0aaca85c4587da',1,'stpool.h']]],
+  ['pool_5ferr_5foverloaded',['POOL_ERR_OVERLOADED',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8a14499b0f277a6c72ff2b079dbf66ba97',1,'stpool.h']]],
+  ['pool_5ferr_5fthrottle',['POOL_ERR_THROTTLE',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8aaed62b25ec41afb4f857f071d64f2e7e',1,'stpool.h']]],
+  ['pool_5ferr_5ftimedout',['POOL_ERR_TIMEDOUT',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8af44b9de39fbbdbbd9a574f5f89f23d24',1,'stpool.h']]],
+  ['pool_5ftask_5ferr_5fbusy',['POOL_TASK_ERR_BUSY',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8a885324a410f62ae0e3a726532fe12c61',1,'stpool.h']]],
+  ['pool_5ftask_5ferr_5fdestination',['POOL_TASK_ERR_DESTINATION',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8a7a88fd878f2c365c3a97c9571efaa180',1,'stpool.h']]],
+  ['pool_5ftask_5ferr_5fdisable_5fqueue',['POOL_TASK_ERR_DISABLE_QUEUE',['../stpool_8h.html#ac36f475ca5b446f4fde4c9b90bec77c8a0c9768016fcd1332ff82698b28c995b2',1,'stpool.h']]]
+];
